@@ -1,4 +1,6 @@
-# Slirbs v1.0.0 
+# Slirbs Alpha v1.0.0 
 ### By Feather Forge team
 ## About
 #### Slirbs is a strategic board/card game that involves capturing and fighting for territory. Slirbs combines the strategic gameplay of Risk with the collectible team-fighting rules of Pokémon, put together in a duck‑militia universe.
+## Shop
+#### Slirbs is still in the testing phase, but development should start shortly, probably around early 2026.
